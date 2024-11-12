@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EzStraDa
+- 👋 Hi, I’m Ezra Jeb
 - 👀 I’m interested in programming and freelancing jobs
 - 🌱 I’m currently learning Javascript and ReactJS
 - ⚡ Fun fact: I'm a noob gamer. LMAO
